@@ -1,0 +1,45 @@
+img.resize {
+    width: 300px;
+    height: auto;
+
+
+}
+ .bc {
+   text-decoration: underline;
+   color: white;
+   font-size: 16px;
+ }
+
+body {
+background-image:url(http://www.publicdomainpictures.net/pictures/40000/velka/green-polka-dot-background.jpg);
+
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+}
+
+.first {
+  background-color: #fdf5e6;
+  border-radius: 15px 15px 15px 15px;
+  text-align: center;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.second {
+  background-color: #00ced1;
+  border-radius: 15px 15px 15px 15px;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
